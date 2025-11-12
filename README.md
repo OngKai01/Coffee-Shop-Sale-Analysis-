@@ -18,7 +18,8 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 | Customer ID| Unique identifier and tname of the purchasing customer  | 
 | Product ID | Identifer from the coffee product                       |
 | Quantity   | Quantity of products in the order                       |
-|----------------------------------------------------------------------|
+
+
 
 |**Customer**             |
 |-------------------------|
