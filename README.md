@@ -12,7 +12,7 @@ This analysis is built upon a transactional sales dataset. Each of the rows in t
 a customer. This data structure consists of 3 tables; Orders, Customer and Product
 
 |**Order**     |                                                        |
-|----------------------------------------------------------------------|
+|-------------|---------------------------------------------------------|
 | Order ID  | A unique Identifier for each transactin                  |
 | Order Date | The date the order was placed                           |
 | Customer ID| Unique identifier and tname of the purchasing customer  | 
