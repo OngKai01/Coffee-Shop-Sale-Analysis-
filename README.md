@@ -62,6 +62,9 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 
 
 ##6. DashBoard 
+<img width="2086" height="1250" alt="image" src="https://github.com/user-attachments/assets/050a86d8-1984-4fe5-af7f-0dd832165cbf" />
+
+
 
 
 
