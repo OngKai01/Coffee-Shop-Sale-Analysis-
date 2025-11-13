@@ -53,8 +53,10 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 
 
 ## III.Insights Deep Dive/ Exploratory Data Analysis (EDA) 
-
-
+<details>
+<summary>Click to expand/collapse</summary>
+This is the content that will be hidden by default and revealed when the summary is clicked.
+</details>
 
 
 
