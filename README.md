@@ -1,6 +1,7 @@
 # Coffee-Shop-Sale-Analysis
 
-##Project Background and Overview##
+##Project Background and Overview
+
 This project aims to analyze historical coffee sales data to uncover key business trends, understand customer preferences and retention, and identify oppurtunities for growth. 
 
 ## Tools Used 
