@@ -20,7 +20,6 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 | Quantity   | Quantity of products in the order                       |
 
 
-
 |**Customer**  |           |
 |--------------|-----------|
 |Customer ID  | String    |
@@ -32,7 +31,6 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 |Country      | String    |
 |PostCode     | Numb      |
 |Loyalty Card | String    |
-|-------------------------|
 
 |**Product**  |           |
 |--------------|----------|
@@ -62,6 +60,8 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 
 ##5. Recommendations
 
+
+##6. DashBoard 
 
 
 
