@@ -1,9 +1,16 @@
 # Coffee-Shop-Sale-Analysis
 
 ##Project Background and Overview 
+This project aims to analyze historical coffee sales data to uncover key business trends, understand customer preferences and retention, and identify oppurtunities for growth. 
 
+## Tools Used 
+**Data Preparations**: Used Excel Power Query to clea, transfrom and structure the dataset 
 
+**Analysis**: Constructd Pivot tables to EDA through agregations, summariesmand intital insights. 
 
+**Visualization**: Created Pivot Graphs for visualizations and Slicers for interactive filtering
+
+**Dashboard** Developed a fully interactive Dashboard to uncover trends and present key findings for stakeholders and user
 
 
 ##Data Structure Overview
@@ -11,7 +18,7 @@
 This analysis is built upon a transactional sales dataset. Each of the rows in the data represents an order from 
 a customer. This data structure consists of 3 tables; Orders, Customer and Product
 
-|**Order**     |                                                        |
+|**Order**     |    *Description*                                                    |
 |-------------|---------------------------------------------------------|
 | Order ID  | A unique Identifier for each transactin                  |
 | Order Date | The date the order was placed                           |
