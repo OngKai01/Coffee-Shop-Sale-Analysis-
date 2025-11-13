@@ -54,8 +54,13 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 
 ## III.Insights Deep Dive/ Exploratory Data Analysis (EDA) 
 <details>
-<summary>Click to expand/collapse</summary>
-This is the content that will be hidden by default and revealed when the summary is clicked.
+<summary> Question: Does a Loyalty Card encourage clients to spend more on purchases?</summary>
+|<img width="422" height="120" alt="image" src="https://github.com/user-attachments/assets/adfea50f-76ef-4409-b91a-a9811f0999ea" />
+|<img width="1012" height="614" alt="image" src="https://github.com/user-attachments/assets/66104be2-ab82-454e-8584-db306f35eb03" />
+|
+**Key Insights**: 
+  - Looking at the average and sum spending of those with and without royalty card, we see that there is a small margin between the two. In fact, we see that clients without the royalty card, on average spend more on an order than loyal customers. 
+  
 </details>
 
 
