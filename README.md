@@ -5,13 +5,13 @@
 This project aims to analyze historical coffee sales data to uncover key business trends, understand customer preferences and retention, and identify oppurtunities for growth. 
 
 ## Tools Used 
-**Data Preparations**: Used Excel Power Query to clea, transfrom and structure the dataset 
+- **Data Preparations**: Used Excel Power Query to clea, transfrom and structure the dataset 
 
-**Analysis**: Constructd Pivot tables to EDA through agregations, summariesmand intital insights. 
+- **Analysis**: Constructd Pivot tables to EDA through agregations, summariesmand intital insights. 
 
-**Visualization**: Created Pivot Graphs for visualizations and Slicers for interactive filtering
+- **Visualization**: Created Pivot Graphs for visualizations and Slicers for interactive filtering
 
-**Dashboard** Developed a fully interactive Dashboard to uncover trends and present key findings for stakeholders and user
+- **Dashboard** Developed a fully interactive Dashboard to uncover trends and present key findings for stakeholders and user
 
 
 ## Data Structure Overview
