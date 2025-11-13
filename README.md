@@ -22,7 +22,7 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 
 
 |**Customer**             |
-|-------------------------|
+|--------------|-----------|
 |Customer ID  | String    |
 |Customer Name| String    |
 |Email        | String    | 
@@ -35,7 +35,7 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 |-------------------------|
 
 |**Product**             |
-|------------------------|
+|--------------|----------|
 |Product ID    | String  |
 |Coffee Type   | String  |
 |Roast Type    | String  |
@@ -43,7 +43,7 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 |Unit Price    | Float64 |
 |Price per 100g| Float64 |
 |Profit        | Float64 |
-|------------------------|
+
 
 
 
