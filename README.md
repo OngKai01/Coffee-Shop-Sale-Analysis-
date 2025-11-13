@@ -11,7 +11,7 @@
 This analysis is built upon a transactional sales dataset. Each of the rows in the data represents an order from 
 a customer. This data structure consists of 3 tables; Orders, Customer and Product
 
-|**Order**                                                             |
+|**Order**     |                                                        |
 |----------------------------------------------------------------------|
 | Order ID  | A unique Identifier for each transactin                  |
 | Order Date | The date the order was placed                           |
@@ -21,7 +21,7 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 
 
 
-|**Customer**             |
+|**Customer**  |           |
 |--------------|-----------|
 |Customer ID  | String    |
 |Customer Name| String    |
@@ -34,7 +34,7 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 |Loyalty Card | String    |
 |-------------------------|
 
-|**Product**             |
+|**Product**  |           |
 |--------------|----------|
 |Product ID    | String  |
 |Coffee Type   | String  |
