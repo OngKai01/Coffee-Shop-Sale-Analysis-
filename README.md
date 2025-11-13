@@ -1,6 +1,6 @@
 # Coffee-Shop-Sale-Analysis
 
-##Project Background and Overview
+## Project Background and Overview
 
 This project aims to analyze historical coffee sales data to uncover key business trends, understand customer preferences and retention, and identify oppurtunities for growth. 
 
@@ -14,7 +14,7 @@ This project aims to analyze historical coffee sales data to uncover key busines
 **Dashboard** Developed a fully interactive Dashboard to uncover trends and present key findings for stakeholders and user
 
 
-##Data Structure Overview
+## Data Structure Overview
 
 This analysis is built upon a transactional sales dataset. Each of the rows in the data represents an order from 
 a customer. This data structure consists of 3 tables; Orders, Customer and Product
@@ -28,7 +28,7 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 | Quantity   | Quantity of products in the order                       |
 
 
-|**Customer**  |           |
+|**Customer**  |  Data Type         |
 |--------------|-----------|
 |Customer ID  | String    |
 |Customer Name| String    |
@@ -40,7 +40,7 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 |PostCode     | Numb      |
 |Loyalty Card | String    |
 
-|**Product**  |           |
+|**Product**  |  Data Type       |
 |--------------|----------|
 |Product ID    | String  |
 |Coffee Type   | String  |
@@ -54,22 +54,22 @@ a customer. This data structure consists of 3 tables; Orders, Customer and Produ
 
 
 
-##Executive Summary 
+## Executive Summary 
 
 
 
 
-##Insights Deep Dive 
+## Insights Deep Dive 
 
 
 
 
 
 
-##5. Recommendations
+## Recommendations
 
 
-##6. DashBoard 
+## DashBoard 
 <img width="2086" height="1250" alt="image" src="https://github.com/user-attachments/assets/050a86d8-1984-4fe5-af7f-0dd832165cbf" />
 
 
