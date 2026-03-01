@@ -1,7 +1,6 @@
 # Coffee-Shop-Sale-Analysis
 
-<img width="800" height="653" alt="image" src="https://github.com/user-attachments/assets/80724ea2-7762-425e-a9aa-ef1729799540" />
-
+<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/9c3dd31b-a596-41b6-bf33-a85c211a4cd9" />
 
 
 This project aims to analyze historical coffee sales data to uncover key business trends, understand customer preferences and retention, and identify oppurtunities for growth. 
